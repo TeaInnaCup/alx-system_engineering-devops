@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --indicator-style=--file-type /etc/passwd
+grep  "root"/etc/passwd
